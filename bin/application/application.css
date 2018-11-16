@@ -1,0 +1,22 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.pane1 {
+	-fx-background-image: url('assets/1.jpg');
+	-fx-background-size: cover, auto;
+}
+
+.pane2 {
+	-fx-background-image: url('assets/2.jpg');
+	-fx-background-size: cover, auto;
+}
+
+.pane3 {
+	-fx-background-image: url('assets/3.jpg');
+	-fx-background-size: cover, auto;
+}
+
+.txtInicio:hover {
+	-fx-text-alignment: center;
+	-fx-background-color: white;
+	-fx-color: black;
+	
+}
